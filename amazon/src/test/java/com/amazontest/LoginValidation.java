@@ -1,2 +1,4 @@
-package com.amazontest;public class LoginValidation {
+package com.amazontest;
+
+public class LoginValidation {
 }
