@@ -1,2 +1,4 @@
-package com.amazon.pages;public class HomePage {
+package com.amazon.pages;
+
+public class HomePage {
 }

@@ -1,4 +1,4 @@
-package com.orange.data;
+package com.amazon.data;
 
 import org.testng.annotations.DataProvider;
 

@@ -1,2 +1,4 @@
-package com.amazon.pages;public class SigninPage {
+package com.amazon.pages;
+
+public class SignInPage {
 }
