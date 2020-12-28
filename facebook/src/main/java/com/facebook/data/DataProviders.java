@@ -1,4 +1,4 @@
-package com.amazon.data;
+package com.facebook.data;
 
 import org.testng.annotations.DataProvider;
 
